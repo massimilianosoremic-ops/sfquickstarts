@@ -145,3 +145,4 @@ Thank you for helping us maintain a high quality bar and consistency across all 
 - [How to Fork a Repo](https://youtu.be/ePRJHFXU6n4)
 - [How to Edit a Guide](https://youtu.be/yd9LXsvTSTU)
 - **Basic Guide with hands-on Instructions:** [Getting Started with Snowflake Intelligence](https://www.snowflake.com/en/developers/guides/getting-started-with-snowflake-intelligence/)
+
